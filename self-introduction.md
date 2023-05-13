@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hello World, my name is Filep Sándor 👋I am currently a student at coodecooll, and my goal is to become a good programmer.
 
 <!--
 **Filepsandor/Filepsandor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
